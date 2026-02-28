@@ -60,3 +60,5 @@ if ($changed) {
 Write-Host ""
 Write-Host "Please refresh the Dashboard page." -ForegroundColor Cyan
 Write-Host ""
+
+    "Gateway Dashboard" = "网关仪表板"
