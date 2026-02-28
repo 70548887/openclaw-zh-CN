@@ -169,6 +169,12 @@ $replacements = @{
     "Nodes" = "节点"
     "Paired devices and live links." = "配对设备和实时链接。"
     "No nodes found." = "未找到节点。"
+    # Logs page translations
+    "Logs" = "日志"
+    "Gateway file logs (JSONL)." = "网关文件日志 (JSONL)。"
+    "Export visible" = "导出可见"
+    "Search logs" = "搜索日志"
+    "Auto-follow" = "自动跟随"
 }
 
 $changed = $false
