@@ -228,6 +228,23 @@ $replacements = @{
     "Failover Window (hours)" = "故障转移窗口（小时）"
     "Failure window (hours) for backoff counters (default: 24)." = "退避计数器的故障窗口（小时）（默认值：24）。"
     "Form view can't safely edit some fields. Use Raw to avoid losing config entries." = "表单视图无法安全编辑某些字段。使用原始视图以避免丢失配置条目。"
+    # Sessions page translations
+    "Sessions" = "会话"
+    "Active session keys and per-session overrides." = "活动会话密钥和每个会话的覆盖设置。"
+    "Active within (minutes)" = "活跃时间（分钟）"
+    "Include global" = "包含全局"
+    "Include unknown" = "包含未知"
+    "Store: (multiple)" = "存储：（多个）"
+    "Key" = "密钥"
+    "Label" = "标签"
+    "Kind" = "类型"
+    "Updated" = "更新时间"
+    "Thinking" = "思考"
+    "Verbose" = "详细"
+    "Reasoning" = "推理"
+    "Actions" = "操作"
+    "direct" = "直接"
+    "inherit" = "继承"
 }
 
 $changed = $false
