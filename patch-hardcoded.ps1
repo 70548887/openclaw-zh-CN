@@ -245,6 +245,14 @@ $replacements = @{
     "Actions" = "操作"
     "direct" = "直接"
     "inherit" = "继承"
+    # Instances page translations
+    "Connected Instances" = "已连接实例"
+    "Presence beacons from the gateway and clients." = "来自网关和客户端的在线信标。"
+    "just now" = "刚刚"
+    "Last input" = "最后输入"
+    "Reason" = "原因"
+    "self" = "自身"
+    "disconnect" = "断开连接"
 }
 
 $changed = $false
