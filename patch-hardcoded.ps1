@@ -109,6 +109,25 @@ $replacements = @{
     "Optional recipient override (chat id, phone, or user id)." = "可选的收件人覆盖（聊天 ID、电话或用户 ID）。"
     "Advanced" = "高级"
     "Add job" = "添加任务"
+    # Skills page translations
+    "Bundled, managed, and workspace skills." = "捆绑、管理和工作区技能。"
+    "Filter" = "筛选"
+    "Search skills" = "搜索技能"
+    "Built-in Skills" = "内置技能"
+    "Extra Skills" = "额外技能"
+    "feishu-doc" = "飞书文档"
+    "Feishu document read/write operations. Activate when user mentions Feishu docs, cloud docs, or docx links." = "飞书文档读写操作。当用户提及飞书文档、云文档或 docx 链接时激活。"
+    "feishu-drive" = "飞书网盘"
+    "Feishu cloud storage file management. Activate when user mentions cloud space, folders, drive." = "飞书云存储文件管理。当用户提及云空间、文件夹、网盘时激活。"
+    "feishu-perm" = "飞书权限"
+    "Feishu permission management for documents and files. Activate when user mentions sharing, permissions, collaborators." = "飞书文档和文件权限管理。当用户提及共享、权限、协作者时激活。"
+    "feishu-wiki" = "飞书知识库"
+    "Feishu knowledge base navigation. Activate when user mentions knowledge base, wiki, or wiki links." = "飞书知识库导航。当用户提及知识库、wiki 或 wiki 链接时激活。"
+    "eligible" = "符合条件"
+    "Disable" = "禁用"
+    "Enable" = "启用"
+    "Activated" = "已激活"
+    "Deactivated" = "已停用"
 }
 
 $changed = $false
